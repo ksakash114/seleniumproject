@@ -1,11 +1,18 @@
 package selenium.pracproject;
 
-public class example1 {
+import org.testng.annotations.Test;
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
- 
-		System.out.println("abcdef");
+import BaseClasses.BaseTest;
+import BaseClasses.BrowserInitialize;
+
+public class example1 extends BaseTest {
+
+	
+	@Test
+	public void testcases() throws Exception
+	{
+		System.out.println("entered testcases");
+		BrowserInitialize.getDriver().get("https://www.flipkart.com/");
+		Thread.sleep(5000);
 	}
-
 }
