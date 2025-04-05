@@ -25,7 +25,7 @@
       <span class="top-banner-title-font">Test results</span>
       <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+      <span class="top-banner-font-1">1 suite, 2 failed tests</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -92,7 +92,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">2 methods, 1 failed,   1 passed</span>
+                    <span class="method-stats">3 methods, 2 failed,   1 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title failed">Failed methods</span>
@@ -103,7 +103,12 @@
                     <div class="method-list-content failed suite-CrossBrowserSuite">
                       <span>
                         <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-CrossBrowserSuite" title="selenium.pracproject.example1" class="method navigator-link" hash-for-method="testcases">testcases</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-CrossBrowserSuite" title="selenium.pracproject.example1" class="method navigator-link" hash-for-method="testcases(teacher, Password123)">testcases(teacher, Password123)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-CrossBrowserSuite" title="selenium.pracproject.example1" class="method navigator-link" hash-for-method="testcases(student, Password12)">testcases(student, Password12)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content failed suite-CrossBrowserSuite -->
@@ -117,7 +122,7 @@
                     <div class="method-list-content passed suite-CrossBrowserSuite">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-CrossBrowserSuite" title="selenium.pracproject.example1" class="method navigator-link" hash-for-method="test">test</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-CrossBrowserSuite" title="selenium.pracproject.example1" class="method navigator-link" hash-for-method="testcases(student, Password123)">testcases(student, Password123)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-CrossBrowserSuite -->
@@ -140,11 +145,29 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="testcases">
-                  </a> <!-- testcases -->
+                  <a name="testcases(teacher, Password123)">
+                  </a> <!-- testcases(teacher, Password123) -->
                   <span class="method-name">testcases</span>
-                  <div class="stack-trace">java.lang.AssertionError: expected [Filpkart] but found [Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books &amp; More. Best Offers!]
-	at selenium.pracproject.example1.testcases(example1.java:20)
+                  <span class="parameters">(teacher,Password123)</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [Logged In Successfully | Practice Test Automation] but found [Test Login | Practice Test Automation]
+	at selenium.pracproject.example1.testcases(example1.java:62)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+... Removed 21 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testcases(student, Password12)">
+                  </a> <!-- testcases(student, Password12) -->
+                  <span class="method-name">testcases</span>
+                  <span class="parameters">(student,Password12)</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [Logged In Successfully | Practice Test Automation] but found [Test Login | Practice Test Automation]
+	at selenium.pracproject.example1.testcases(example1.java:62)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
@@ -164,9 +187,10 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="test">
-                  </a> <!-- test -->
-                  <span class="method-name">test</span>
+                  <a name="testcases(student, Password123)">
+                  </a> <!-- testcases(student, Password123) -->
+                  <span class="method-name">testcases</span>
+                  <span class="parameters">(student,Password123)</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -224,20 +248,24 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(2);
+data.addRows(3);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'testcases')
 data.setCell(0, 2, 'selenium.pracproject.example1')
-data.setCell(0, 3, 6440);
+data.setCell(0, 3, 12157);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'test')
+data.setCell(1, 1, 'testcases')
 data.setCell(1, 2, 'selenium.pracproject.example1')
-data.setCell(1, 3, 7);
+data.setCell(1, 3, 11320);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'testcases')
+data.setCell(2, 2, 'selenium.pracproject.example1')
+data.setCell(2, 3, 10925);
 window.suiteTableData['CrossBrowserSuite']= { tableData: data, tableDiv: 'times-div-CrossBrowserSuite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 9 seconds</span>
+              <span class="suite-total-time">Total running time: 40 seconds</span>
               <div id="times-div-CrossBrowserSuite">
               </div> <!-- times-div-CrossBrowserSuite -->
             </div> <!-- times-div -->
@@ -268,43 +296,41 @@ return data;
                 <span class="method-name">setup(chrome)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-method before -->
-              <div class="configuration-method before">
-                <span class="method-name">setupreport</span>
-                <span class="method-start">1504 ms</span>
-              </div> <!-- configuration-method before -->
               <div class="test-method">
-                <span class="method-name">test</span>
-                <span class="method-start">1636 ms</span>
+                <span class="method-name">testcases(student, Password123)</span>
+                <span class="method-start">1570 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
-                <span class="method-name">teardownreport([TestResult name=test status=SUCCESS method=example1.test()[pri:0, instance:selenium.pracproject.exa...)</span>
-                <span class="method-start">1649 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method after">
-                <span class="method-name">terminatebrowser</span>
-                <span class="method-start">1876 ms</span>
+                <span class="method-name">teardownreport([TestResult name=testcases status=SUCCESS method=example1.testcases(java.lang.String,java.lang.Strin...)</span>
+                <span class="method-start">13743 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">setup(chrome)</span>
-                <span class="method-start">2030 ms</span>
-              </div> <!-- configuration-method before -->
-              <div class="configuration-method before">
-                <span class="method-name">setupreport</span>
-                <span class="method-start">2612 ms</span>
+                <span class="method-start">14711 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
-                <span class="method-name">testcases</span>
-                <span class="method-start">2613 ms</span>
+                <span class="method-name">testcases(teacher, Password123)</span>
+                <span class="method-start">15511 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
-                <span class="method-name">teardownreport([TestResult name=testcases status=FAILURE method=example1.testcases()[pri:0, instance:selenium.pracp...)</span>
-                <span class="method-start">9055 ms</span>
+                <span class="method-name">teardownreport([TestResult name=testcases status=FAILURE method=example1.testcases(java.lang.String,java.lang.Strin...)</span>
+                <span class="method-start">26846 ms</span>
               </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">27326 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">testcases(student, Password12)</span>
+                <span class="method-start">28128 ms</span>
+              </div> <!-- test-method -->
               <div class="configuration-method after">
-                <span class="method-name">terminatebrowser</span>
-                <span class="method-start">9253 ms</span>
+                <span class="method-name">teardownreport([TestResult name=testcases status=FAILURE method=example1.testcases(java.lang.String,java.lang.Strin...)</span>
+                <span class="method-start">39070 ms</span>
               </div> <!-- configuration-method after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

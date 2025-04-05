@@ -20,6 +20,7 @@ public class BrowserInitialize {
 		{
 			WebDriverManager.chromedriver().setup();
             driver.set(new ChromeDriver());
+            Log.info("enterd browser class");
 			//driver=new ChromeDriver();
 		}else if(browser.equalsIgnoreCase("Edge"))
 		{
@@ -32,6 +33,7 @@ public class BrowserInitialize {
 		}
 		
 		getDriver().manage().window().maximize();
+		Log.info("maximized");
 	}
 	
 	public static WebDriver getDriver() {

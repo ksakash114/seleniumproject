@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="1" failed="1" skipped="0">
+<testng-results ignored="0" total="3" passed="1" failed="2" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-05T13:22:59 IST" name="CrossBrowserSuite" finished-at="2025-04-05T13:23:09 IST" duration-ms="9468">
+  <suite started-at="2025-04-06T00:26:47 IST" name="CrossBrowserSuite" finished-at="2025-04-06T00:27:27 IST" duration-ms="40549">
     <groups>
     </groups>
-    <test started-at="2025-04-05T13:22:59 IST" name="ChromeTest" finished-at="2025-04-05T13:23:09 IST" duration-ms="9468">
+    <test started-at="2025-04-06T00:26:47 IST" name="ChromeTest" finished-at="2025-04-06T00:27:27 IST" duration-ms="40549">
       <class name="selenium.pracproject.example1">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:selenium.pracproject.example1@3fc2959f]" started-at="2025-04-05T13:22:59 IST" name="setup" finished-at="2025-04-05T13:23:01 IST" duration-ms="1503" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:selenium.pracproject.example1@1fa121e2]" started-at="2025-04-06T00:26:48 IST" name="setup" finished-at="2025-04-06T00:26:49 IST" duration-ms="1569" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,30 +18,34 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="setupreport()[pri:0, instance:selenium.pracproject.example1@3fc2959f]" started-at="2025-04-05T13:23:01 IST" name="setupreport" finished-at="2025-04-05T13:23:01 IST" duration-ms="132" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setupreport -->
-        <test-method signature="test()[pri:0, instance:selenium.pracproject.example1@3fc2959f]" started-at="2025-04-05T13:23:01 IST" name="test" finished-at="2025-04-05T13:23:01 IST" duration-ms="7" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test -->
-        <test-method is-config="true" signature="teardownreport(org.testng.ITestResult)[pri:0, instance:selenium.pracproject.example1@3fc2959f]" started-at="2025-04-05T13:23:01 IST" name="teardownreport" finished-at="2025-04-05T13:23:01 IST" duration-ms="227" status="PASS">
+        <test-method signature="testcases(java.lang.String,java.lang.String)[pri:0, instance:selenium.pracproject.example1@1fa121e2]" started-at="2025-04-06T00:26:49 IST" name="testcases" data-provider="Logindata" finished-at="2025-04-06T00:27:02 IST" duration-ms="12157" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=test status=SUCCESS method=example1.test()[pri:0, instance:selenium.pracproject.example1@3fc2959f] output={null}]]]>
+                <![CDATA[student]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcases -->
+        <test-method is-config="true" signature="teardownreport(org.testng.ITestResult)[pri:0, instance:selenium.pracproject.example1@1fa121e2]" started-at="2025-04-06T00:27:02 IST" name="teardownreport" finished-at="2025-04-06T00:27:03 IST" duration-ms="968" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testcases status=SUCCESS method=example1.testcases(java.lang.String,java.lang.String)[pri:0, instance:selenium.pracproject.example1@1fa121e2] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardownreport -->
-        <test-method is-config="true" signature="terminatebrowser()[pri:0, instance:selenium.pracproject.example1@3fc2959f]" started-at="2025-04-05T13:23:01 IST" name="terminatebrowser" finished-at="2025-04-05T13:23:01 IST" duration-ms="152" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- terminatebrowser -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:selenium.pracproject.example1@3fc2959f]" started-at="2025-04-05T13:23:01 IST" name="setup" finished-at="2025-04-05T13:23:02 IST" duration-ms="581" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:selenium.pracproject.example1@1fa121e2]" started-at="2025-04-06T00:27:03 IST" name="setup" finished-at="2025-04-06T00:27:03 IST" duration-ms="799" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -52,24 +56,32 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="setupreport()[pri:0, instance:selenium.pracproject.example1@3fc2959f]" started-at="2025-04-05T13:23:02 IST" name="setupreport" finished-at="2025-04-05T13:23:02 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setupreport -->
-        <test-method signature="testcases()[pri:0, instance:selenium.pracproject.example1@3fc2959f]" started-at="2025-04-05T13:23:02 IST" name="testcases" finished-at="2025-04-05T13:23:08 IST" duration-ms="6440" status="FAIL">
+        <test-method signature="testcases(java.lang.String,java.lang.String)[pri:0, instance:selenium.pracproject.example1@1fa121e2]" started-at="2025-04-06T00:27:03 IST" name="testcases" data-provider="Logindata" finished-at="2025-04-06T00:27:15 IST" duration-ms="11320" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[teacher]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123]]>
+              </value>
+            </param>
+          </params>
           <exception class="java.lang.AssertionError">
             <message>
-              <![CDATA[expected [Filpkart] but found [Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!]]]>
+              <![CDATA[expected [Logged In Successfully | Practice Test Automation] but found [Test Login | Practice Test Automation]]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [Filpkart] but found [Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!]
+              <![CDATA[java.lang.AssertionError: expected [Logged In Successfully | Practice Test Automation] but found [Test Login | Practice Test Automation]
 at org.testng.Assert.fail(Assert.java:111)
 at org.testng.Assert.failNotEquals(Assert.java:1590)
 at org.testng.Assert.assertEqualsImpl(Assert.java:150)
 at org.testng.Assert.assertEquals(Assert.java:132)
 at org.testng.Assert.assertEquals(Assert.java:656)
 at org.testng.Assert.assertEquals(Assert.java:666)
-at selenium.pracproject.example1.testcases(example1.java:20)
+at selenium.pracproject.example1.testcases(example1.java:62)
 at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
@@ -96,21 +108,91 @@ at java.base/java.lang.Thread.run(Thread.java:1583)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcases -->
-        <test-method is-config="true" signature="teardownreport(org.testng.ITestResult)[pri:0, instance:selenium.pracproject.example1@3fc2959f]" started-at="2025-04-05T13:23:08 IST" name="teardownreport" finished-at="2025-04-05T13:23:09 IST" duration-ms="197" status="PASS">
+        <test-method is-config="true" signature="teardownreport(org.testng.ITestResult)[pri:0, instance:selenium.pracproject.example1@1fa121e2]" started-at="2025-04-06T00:27:15 IST" name="teardownreport" finished-at="2025-04-06T00:27:15 IST" duration-ms="480" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=testcases status=FAILURE method=example1.testcases()[pri:0, instance:selenium.pracproject.example1@3fc2959f] output={null}]]]>
+                <![CDATA[[TestResult name=testcases status=FAILURE method=example1.testcases(java.lang.String,java.lang.String)[pri:0, instance:selenium.pracproject.example1@1fa121e2] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardownreport -->
-        <test-method is-config="true" signature="terminatebrowser()[pri:0, instance:selenium.pracproject.example1@3fc2959f]" started-at="2025-04-05T13:23:09 IST" name="terminatebrowser" finished-at="2025-04-05T13:23:09 IST" duration-ms="191" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:selenium.pracproject.example1@1fa121e2]" started-at="2025-04-06T00:27:15 IST" name="setup" finished-at="2025-04-06T00:27:16 IST" duration-ms="800" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- terminatebrowser -->
+        </test-method> <!-- setup -->
+        <test-method signature="testcases(java.lang.String,java.lang.String)[pri:0, instance:selenium.pracproject.example1@1fa121e2]" started-at="2025-04-06T00:27:16 IST" name="testcases" data-provider="Logindata" finished-at="2025-04-06T00:27:27 IST" duration-ms="10925" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[student]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password12]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Logged In Successfully | Practice Test Automation] but found [Test Login | Practice Test Automation]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Logged In Successfully | Practice Test Automation] but found [Test Login | Practice Test Automation]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:656)
+at org.testng.Assert.assertEquals(Assert.java:666)
+at selenium.pracproject.example1.testcases(example1.java:62)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1583)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcases -->
+        <test-method is-config="true" signature="teardownreport(org.testng.ITestResult)[pri:0, instance:selenium.pracproject.example1@1fa121e2]" started-at="2025-04-06T00:27:27 IST" name="teardownreport" finished-at="2025-04-06T00:27:27 IST" duration-ms="430" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testcases status=FAILURE method=example1.testcases(java.lang.String,java.lang.String)[pri:0, instance:selenium.pracproject.example1@1fa121e2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownreport -->
       </class> <!-- selenium.pracproject.example1 -->
     </test> <!-- ChromeTest -->
   </suite> <!-- CrossBrowserSuite -->

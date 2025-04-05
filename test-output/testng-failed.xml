@@ -7,10 +7,8 @@
       <class name="selenium.pracproject.example1">
         <methods>
           <include name="teardownreport"/>
-          <include name="setupreport"/>
-          <include name="terminatebrowser"/>
           <include name="setup"/>
-          <include name="testcases"/>
+          <include name="testcases" invocation-numbers="1 2"/>
         </methods>
       </class> <!-- selenium.pracproject.example1 -->
     </classes>

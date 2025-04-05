@@ -20,18 +20,8 @@ public class BaseTest extends BrowserInitialize {
 	@Parameters("browser")
 	public static void setup(String browser1)
 	{
-		System.out.println("entered before");
+		//System.out.println("entered before");
 		BrowserInitialize.initbrowser(browser1);
-	}
-	
-	@AfterMethod
-	public static void terminatebrowser() {
-		BrowserInitialize.terminate();
-	}
-	
-	@BeforeMethod
-	public void setupreport()
-	{
 		extent=ExtentReportManager.getReportsIntance();
 	}
 	
@@ -44,6 +34,19 @@ public class BaseTest extends BrowserInitialize {
 			test.fail("take Screen shot on failure",MediaEntityBuilder.createScreenCaptureFromPath(path).build()); 	
 		}
 		extent.flush();
+		BrowserInitialize.terminate();
 	}
+	
+	
+	/*
+	 * @AfterMethod public static void terminatebrowser() {
+	 * BrowserInitialize.terminate(); }
+	 * 
+	 * 
+	 * @BeforeMethod public void setupreport() {
+	 * extent=ExtentReportManager.getReportsIntance(); }
+	 */
+	
+	
 			
 }
