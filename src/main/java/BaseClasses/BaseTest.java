@@ -41,7 +41,7 @@ public class BaseTest extends BrowserInitialize {
 		if(result.getStatus()==ITestResult.FAILURE)
 		{
 			String path = ExtentReportManager.createScreenShot(getDriver(), result.getName());
-			test.fail("Screen shot on failure",MediaEntityBuilder.createScreenCaptureFromPath(path).build()); 	
+			test.fail("take Screen shot on failure",MediaEntityBuilder.createScreenCaptureFromPath(path).build()); 	
 		}
 		extent.flush();
 	}
