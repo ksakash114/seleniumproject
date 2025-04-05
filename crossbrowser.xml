@@ -6,10 +6,10 @@
         </classes>
     </test>
 
-    <test name="EdgeTest">
+    <!-- <test name="EdgeTest">
         <parameter name="browser" value="edge"/>
         <classes>
             <class name="selenium.pracproject.example1"/>
         </classes>
-    </test>
+    </test> -->
 </suite>

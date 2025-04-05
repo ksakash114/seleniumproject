@@ -5,6 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import utils.Log;
 
 public class BrowserInitialize {
 
@@ -14,7 +15,7 @@ public class BrowserInitialize {
 	
 	public static void initbrowser(String browser)
 	{
-		System.out.println("entered initbrowser");
+		Log.info("Started "+ browser);
 		if(browser.equalsIgnoreCase("Chrome"))
 		{
 			WebDriverManager.chromedriver().setup();
