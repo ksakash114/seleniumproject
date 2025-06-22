@@ -19,9 +19,8 @@ public class ExcelUtils {
 	{
 		FileInputStream fileinputstream = new FileInputStream(filepath);
 		workbook = new XSSFWorkbook(fileinputstream);
-		sheet=workbook.getSheet(sheetname);
+		sheet=workbook.getSheet(sheetname); 
 	}
-	
 	
 	public static String getcelldata(int row, int col)
 	{

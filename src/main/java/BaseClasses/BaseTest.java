@@ -2,7 +2,9 @@ package BaseClasses;
 
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Parameters;
 
 import com.aventstack.extentreports.ExtentReports;
@@ -20,6 +22,7 @@ public class BaseTest extends BrowserInitialize {
 	@Parameters("browser")
 	public static void setup(String browser1)
 	{
+		//browser1="chrome";
 		//System.out.println("entered before");
 		BrowserInitialize.initbrowser(browser1);
 		extent=ExtentReportManager.getReportsIntance();
@@ -38,12 +41,13 @@ public class BaseTest extends BrowserInitialize {
 	}
 	
 	
+	
 	/*
-	 * @AfterMethod public static void terminatebrowser() {
+	 * @AfterSuite public static void terminatebrowser() {
 	 * BrowserInitialize.terminate(); }
 	 * 
 	 * 
-	 * @BeforeMethod public void setupreport() {
+	 * @BeforeSuite public void setupreport() {
 	 * extent=ExtentReportManager.getReportsIntance(); }
 	 */
 	

@@ -1,91 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="1" failed="2" skipped="0">
+<testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-06T00:26:47 IST" name="CrossBrowserSuite" finished-at="2025-04-06T00:27:27 IST" duration-ms="40549">
+  <suite started-at="2025-06-15T20:49:30 IST" name="Default suite" finished-at="2025-06-15T20:49:30 IST" duration-ms="41">
     <groups>
     </groups>
-    <test started-at="2025-04-06T00:26:47 IST" name="ChromeTest" finished-at="2025-04-06T00:27:27 IST" duration-ms="40549">
-      <class name="selenium.pracproject.example1">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:selenium.pracproject.example1@1fa121e2]" started-at="2025-04-06T00:26:48 IST" name="setup" finished-at="2025-04-06T00:26:49 IST" duration-ms="1569" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="testcases(java.lang.String,java.lang.String)[pri:0, instance:selenium.pracproject.example1@1fa121e2]" started-at="2025-04-06T00:26:49 IST" name="testcases" data-provider="Logindata" finished-at="2025-04-06T00:27:02 IST" duration-ms="12157" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[student]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Password123]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testcases -->
-        <test-method is-config="true" signature="teardownreport(org.testng.ITestResult)[pri:0, instance:selenium.pracproject.example1@1fa121e2]" started-at="2025-04-06T00:27:02 IST" name="teardownreport" finished-at="2025-04-06T00:27:03 IST" duration-ms="968" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=testcases status=SUCCESS method=example1.testcases(java.lang.String,java.lang.String)[pri:0, instance:selenium.pracproject.example1@1fa121e2] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardownreport -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:selenium.pracproject.example1@1fa121e2]" started-at="2025-04-06T00:27:03 IST" name="setup" finished-at="2025-04-06T00:27:03 IST" duration-ms="799" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="testcases(java.lang.String,java.lang.String)[pri:0, instance:selenium.pracproject.example1@1fa121e2]" started-at="2025-04-06T00:27:03 IST" name="testcases" data-provider="Logindata" finished-at="2025-04-06T00:27:15 IST" duration-ms="11320" status="FAIL">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[teacher]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Password123]]>
-              </value>
-            </param>
-          </params>
-          <exception class="java.lang.AssertionError">
+    <test started-at="2025-06-15T20:49:30 IST" name="Default test" finished-at="2025-06-15T20:49:30 IST" duration-ms="41">
+      <class name="seleniumTests.Yatratest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:seleniumTests.Yatratest@3cd3e762]" started-at="2025-06-15T20:49:30 IST" name="setup" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1750000770619" status="FAIL">
+          <exception class="org.testng.TestNGException">
             <message>
-              <![CDATA[expected [Logged In Successfully | Practice Test Automation] but found [Test Login | Practice Test Automation]]]>
+              <![CDATA[
+Can inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @BeforeMethod annotated setup.
+For more information on native dependency injection please refer to https://testng.org/#_dependency_injection]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [Logged In Successfully | Practice Test Automation] but found [Test Login | Practice Test Automation]
-at org.testng.Assert.fail(Assert.java:111)
-at org.testng.Assert.failNotEquals(Assert.java:1590)
-at org.testng.Assert.assertEqualsImpl(Assert.java:150)
-at org.testng.Assert.assertEquals(Assert.java:132)
-at org.testng.Assert.assertEquals(Assert.java:656)
-at org.testng.Assert.assertEquals(Assert.java:666)
-at selenium.pracproject.example1.testcases(example1.java:62)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+              <![CDATA[org.testng.TestNGException: 
+Can inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @BeforeMethod annotated setup.
+For more information on native dependency injection please refer to https://testng.org/#_dependency_injection
+at org.testng.internal.Parameters.checkParameterTypes(Parameters.java:442)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:347)
+at org.testng.internal.Parameters.createParameters(Parameters.java:699)
+at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:163)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:313)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:836)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:601)
 at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
 at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
 at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
@@ -96,70 +35,42 @@ at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
 at org.testng.TestRunner.privateRun(TestRunner.java:741)
 at org.testng.TestRunner.run(TestRunner.java:616)
 at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
-at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
-at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
-at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-at java.base/java.lang.Thread.run(Thread.java:1583)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testcases -->
-        <test-method is-config="true" signature="teardownreport(org.testng.ITestResult)[pri:0, instance:selenium.pracproject.example1@1fa121e2]" started-at="2025-04-06T00:27:15 IST" name="teardownreport" finished-at="2025-04-06T00:27:15 IST" duration-ms="480" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=testcases status=FAILURE method=example1.testcases(java.lang.String,java.lang.String)[pri:0, instance:selenium.pracproject.example1@1fa121e2] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardownreport -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:selenium.pracproject.example1@1fa121e2]" started-at="2025-04-06T00:27:15 IST" name="setup" finished-at="2025-04-06T00:27:16 IST" duration-ms="800" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
+          </exception> <!-- org.testng.TestNGException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testcases(java.lang.String,java.lang.String)[pri:0, instance:selenium.pracproject.example1@1fa121e2]" started-at="2025-04-06T00:27:16 IST" name="testcases" data-provider="Logindata" finished-at="2025-04-06T00:27:27 IST" duration-ms="10925" status="FAIL">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[student]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Password12]]>
-              </value>
-            </param>
-          </params>
-          <exception class="java.lang.AssertionError">
+        <test-method signature="selectdates()[pri:0, instance:seleniumTests.Yatratest@3cd3e762]" started-at="2025-06-15T20:49:30 IST" name="selectdates" finished-at="2025-06-15T20:49:30 IST" duration-ms="0" status="SKIP">
+          <exception class="org.testng.TestNGException">
             <message>
-              <![CDATA[expected [Logged In Successfully | Practice Test Automation] but found [Test Login | Practice Test Automation]]]>
+              <![CDATA[
+Can inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @BeforeMethod annotated setup.
+For more information on native dependency injection please refer to https://testng.org/#_dependency_injection]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [Logged In Successfully | Practice Test Automation] but found [Test Login | Practice Test Automation]
-at org.testng.Assert.fail(Assert.java:111)
-at org.testng.Assert.failNotEquals(Assert.java:1590)
-at org.testng.Assert.assertEqualsImpl(Assert.java:150)
-at org.testng.Assert.assertEquals(Assert.java:132)
-at org.testng.Assert.assertEquals(Assert.java:656)
-at org.testng.Assert.assertEquals(Assert.java:666)
-at selenium.pracproject.example1.testcases(example1.java:62)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+              <![CDATA[org.testng.TestNGException: 
+Can inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @BeforeMethod annotated setup.
+For more information on native dependency injection please refer to https://testng.org/#_dependency_injection
+at org.testng.internal.Parameters.checkParameterTypes(Parameters.java:442)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:347)
+at org.testng.internal.Parameters.createParameters(Parameters.java:699)
+at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:163)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:313)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:836)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:601)
 at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
 at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
 at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
@@ -170,30 +81,29 @@ at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
 at org.testng.TestRunner.privateRun(TestRunner.java:741)
 at org.testng.TestRunner.run(TestRunner.java:616)
 at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
-at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
-at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
-at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-at java.base/java.lang.Thread.run(Thread.java:1583)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+          </exception> <!-- org.testng.TestNGException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testcases -->
-        <test-method is-config="true" signature="teardownreport(org.testng.ITestResult)[pri:0, instance:selenium.pracproject.example1@1fa121e2]" started-at="2025-04-06T00:27:27 IST" name="teardownreport" finished-at="2025-04-06T00:27:27 IST" duration-ms="430" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=testcases status=FAILURE method=example1.testcases(java.lang.String,java.lang.String)[pri:0, instance:selenium.pracproject.example1@1fa121e2] output={null}]]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- selectdates -->
+        <test-method is-config="true" signature="teardownreport(org.testng.ITestResult)[pri:0, instance:seleniumTests.Yatratest@3cd3e762]" started-at="2025-06-15T20:49:30 IST" name="teardownreport" finished-at="2025-06-15T20:49:30 IST" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardownreport -->
-      </class> <!-- selenium.pracproject.example1 -->
-    </test> <!-- ChromeTest -->
-  </suite> <!-- CrossBrowserSuite -->
+      </class> <!-- seleniumTests.Yatratest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

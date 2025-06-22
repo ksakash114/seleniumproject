@@ -1,8 +1,8 @@
-<suite name="CrossBrowserSuite" parallel="tests" thread-count="2">
+<suite name="CrossBrowserSuite" parallel="tests" thread-count="1">
     <test name="ChromeTest">
         <parameter name="browser" value="chrome"/>
         <classes>
-            <class name="selenium.pracproject.example1"/>
+            <class name="seleniumTests.Yatratest"/>
         </classes>
     </test>
 

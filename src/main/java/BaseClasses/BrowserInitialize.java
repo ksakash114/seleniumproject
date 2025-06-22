@@ -2,6 +2,7 @@ package BaseClasses;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -18,8 +19,15 @@ public class BrowserInitialize {
 		Log.info("Started "+ browser);
 		if(browser.equalsIgnoreCase("Chrome"))
 		{
-			WebDriverManager.chromedriver().setup();
-            driver.set(new ChromeDriver());
+			//WebDriverManager.chromedriver().setup();
+			 ChromeOptions options = new ChromeOptions();
+				/*
+				 * options.addArguments("--headless"); // Headless mode
+				 * options.addArguments("--window-size=1920,1080");
+				 */
+		        options.addArguments("--disable-notifications");
+		        //driver=new ChromeDriver(options);
+            driver.set(new ChromeDriver(options));
             Log.info("enterd browser class");
 			//driver=new ChromeDriver();
 		}else if(browser.equalsIgnoreCase("Edge"))

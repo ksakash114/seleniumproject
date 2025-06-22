@@ -251,3 +251,657 @@
 2025-04-06 00:27:16 [TestNG-tests-1] INFO  Log - test class entred
 2025-04-06 00:27:16 [TestNG-tests-1] INFO  Log - Logging with student:Password12
 2025-04-06 00:27:27 [TestNG-tests-1] INFO  Log - Test Login | Practice Test Automation
+2025-04-06 00:37:17 [TestNG-tests-1] INFO  Log - entered dataprovider
+2025-04-06 00:37:18 [TestNG-tests-1] INFO  Log - Started chrome
+2025-04-06 00:37:19 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-04-06 00:37:19 [TestNG-tests-1] INFO  Log - maximized
+2025-04-06 00:37:19 [TestNG-tests-1] INFO  Log - test class entred
+2025-04-06 00:37:19 [TestNG-tests-1] INFO  Log - Logging with student:Password123
+2025-04-06 00:37:35 [TestNG-tests-1] INFO  Log - Logged In Successfully | Practice Test Automation
+2025-04-06 00:37:36 [TestNG-tests-1] INFO  Log - Started chrome
+2025-04-06 00:37:36 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-04-06 00:37:36 [TestNG-tests-1] INFO  Log - maximized
+2025-04-06 00:37:36 [TestNG-tests-1] INFO  Log - test class entred
+2025-04-06 00:37:36 [TestNG-tests-1] INFO  Log - Logging with teacher:Password123
+2025-04-06 00:37:47 [TestNG-tests-1] INFO  Log - Test Login | Practice Test Automation
+2025-04-06 00:37:48 [TestNG-tests-1] INFO  Log - Started chrome
+2025-04-06 00:37:48 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-04-06 00:37:48 [TestNG-tests-1] INFO  Log - maximized
+2025-04-06 00:37:48 [TestNG-tests-1] INFO  Log - test class entred
+2025-04-06 00:37:48 [TestNG-tests-1] INFO  Log - Logging with student:Password12
+2025-04-06 00:37:59 [TestNG-tests-1] INFO  Log - Test Login | Practice Test Automation
+2025-06-04 22:06:37 [main] INFO  Log - entered dataprovider
+2025-06-04 22:07:33 [TestNG-tests-1] INFO  Log - entered dataprovider
+2025-06-04 22:07:34 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-04 22:07:38 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-04 22:07:38 [TestNG-tests-1] INFO  Log - maximized
+2025-06-04 22:07:39 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-04 22:07:39 [TestNG-tests-1] INFO  Log - Logging with student:Password123
+2025-06-04 22:07:52 [TestNG-tests-1] INFO  Log - Logged In Successfully | Practice Test Automation
+2025-06-04 22:07:53 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-04 22:07:54 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-04 22:07:54 [TestNG-tests-1] INFO  Log - maximized
+2025-06-04 22:07:54 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-04 22:07:54 [TestNG-tests-1] INFO  Log - Logging with teacher:Password123
+2025-06-04 22:08:05 [TestNG-tests-1] INFO  Log - Test Login | Practice Test Automation
+2025-06-04 22:08:05 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-04 22:08:06 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-04 22:08:06 [TestNG-tests-1] INFO  Log - maximized
+2025-06-04 22:08:06 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-04 22:08:06 [TestNG-tests-1] INFO  Log - Logging with student:Password12
+2025-06-04 22:08:17 [TestNG-tests-1] INFO  Log - Test Login | Practice Test Automation
+2025-06-04 22:18:15 [TestNG-tests-1] INFO  Log - entered dataprovider
+2025-06-04 22:18:16 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-04 22:18:17 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-04 22:18:17 [TestNG-tests-1] INFO  Log - maximized
+2025-06-04 22:18:18 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-04 22:18:18 [TestNG-tests-1] INFO  Log - Logging with student:Password123
+2025-06-04 22:18:30 [TestNG-tests-1] INFO  Log - Logged In Successfully | Practice Test Automation
+2025-06-04 22:18:31 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-04 22:18:32 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-04 22:18:32 [TestNG-tests-1] INFO  Log - maximized
+2025-06-04 22:18:32 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-04 22:18:32 [TestNG-tests-1] INFO  Log - Logging with teacher:Password123
+2025-06-04 22:18:43 [TestNG-tests-1] INFO  Log - Test Login | Practice Test Automation
+2025-06-04 22:18:43 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-04 22:18:44 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-04 22:18:44 [TestNG-tests-1] INFO  Log - maximized
+2025-06-04 22:18:44 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-04 22:18:44 [TestNG-tests-1] INFO  Log - Logging with student:Password12
+2025-06-04 22:19:15 [TestNG-tests-1] INFO  Log - Test Login | Practice Test Automation
+2025-06-04 22:27:46 [TestNG-tests-1] INFO  Log - entered dataprovider
+2025-06-04 22:27:46 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-04 22:27:48 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-04 22:27:48 [TestNG-tests-1] INFO  Log - maximized
+2025-06-04 22:27:48 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-04 22:27:48 [TestNG-tests-1] INFO  Log - Logging with student:Password123
+2025-06-04 22:28:04 [TestNG-tests-1] INFO  Log - Logged In Successfully | Practice Test Automation
+2025-06-04 22:28:05 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-04 22:28:06 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-04 22:28:06 [TestNG-tests-1] INFO  Log - maximized
+2025-06-04 22:28:06 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-04 22:28:06 [TestNG-tests-1] INFO  Log - Logging with teacher:Password123
+2025-06-04 22:28:24 [TestNG-tests-1] INFO  Log - Test Login | Practice Test Automation
+2025-06-04 22:28:24 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-04 22:28:25 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-04 22:28:25 [TestNG-tests-1] INFO  Log - maximized
+2025-06-04 22:28:25 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-04 22:28:25 [TestNG-tests-1] INFO  Log - Logging with student:Password12
+2025-06-04 22:28:46 [TestNG-tests-1] INFO  Log - Test Login | Practice Test Automation
+2025-06-04 22:31:56 [TestNG-tests-1] INFO  Log - entered dataprovider
+2025-06-04 22:31:57 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-04 22:31:58 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-04 22:31:58 [TestNG-tests-1] INFO  Log - maximized
+2025-06-04 22:31:59 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-04 22:31:59 [TestNG-tests-1] INFO  Log - Logging with student:Password123
+2025-06-04 22:32:16 [TestNG-tests-1] INFO  Log - Logged In Successfully | Practice Test Automation
+2025-06-04 22:32:20 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-04 22:32:21 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-04 22:32:21 [TestNG-tests-1] INFO  Log - maximized
+2025-06-04 22:32:21 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-04 22:32:21 [TestNG-tests-1] INFO  Log - Logging with teacher:Password123
+2025-06-04 22:32:36 [TestNG-tests-1] INFO  Log - Test Login | Practice Test Automation
+2025-06-04 22:32:36 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-04 22:32:37 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-04 22:32:37 [TestNG-tests-1] INFO  Log - maximized
+2025-06-04 22:32:37 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-04 22:32:37 [TestNG-tests-1] INFO  Log - Logging with student:Password12
+2025-06-04 22:32:52 [TestNG-tests-1] INFO  Log - Test Login | Practice Test Automation
+2025-06-07 11:07:07 [TestNG-tests-1] INFO  Log - entered dataprovider
+2025-06-07 11:07:07 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-07 11:07:16 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-07 11:07:16 [TestNG-tests-1] INFO  Log - maximized
+2025-06-07 11:07:16 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-07 11:07:16 [TestNG-tests-1] INFO  Log - Logging with student:Password123
+2025-06-07 11:07:25 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-07 11:07:26 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-07 11:07:26 [TestNG-tests-1] INFO  Log - maximized
+2025-06-07 11:07:26 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-07 11:07:26 [TestNG-tests-1] INFO  Log - Logging with teacher:Password123
+2025-06-07 11:07:33 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-07 11:07:34 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-07 11:07:34 [TestNG-tests-1] INFO  Log - maximized
+2025-06-07 11:07:34 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-07 11:07:34 [TestNG-tests-1] INFO  Log - Logging with student:Password12
+2025-06-07 17:56:46 [TestNG-tests-1] INFO  Log - entered dataprovider
+2025-06-07 17:56:46 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-07 17:56:48 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-07 17:56:48 [TestNG-tests-1] INFO  Log - maximized
+2025-06-07 17:56:48 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-07 17:56:48 [TestNG-tests-1] INFO  Log - Logging with student:Password123
+2025-06-07 17:57:07 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-07 17:57:08 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-07 17:57:08 [TestNG-tests-1] INFO  Log - maximized
+2025-06-07 17:57:08 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-07 17:57:08 [TestNG-tests-1] INFO  Log - Logging with teacher:Password123
+2025-06-07 17:57:26 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-07 17:57:26 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-07 17:57:27 [TestNG-tests-1] INFO  Log - maximized
+2025-06-07 17:57:27 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-07 17:57:27 [TestNG-tests-1] INFO  Log - Logging with student:Password12
+2025-06-07 17:59:11 [TestNG-tests-1] INFO  Log - entered dataprovider
+2025-06-07 17:59:11 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-07 17:59:13 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-07 17:59:13 [TestNG-tests-1] INFO  Log - maximized
+2025-06-07 17:59:13 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-07 17:59:13 [TestNG-tests-1] INFO  Log - Logging with student:Password123
+2025-06-07 17:59:31 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-07 17:59:32 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-07 17:59:32 [TestNG-tests-1] INFO  Log - maximized
+2025-06-07 17:59:32 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-07 17:59:32 [TestNG-tests-1] INFO  Log - Logging with teacher:Password123
+2025-06-07 17:59:50 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-07 17:59:51 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-07 17:59:51 [TestNG-tests-1] INFO  Log - maximized
+2025-06-07 17:59:51 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-07 17:59:51 [TestNG-tests-1] INFO  Log - Logging with student:Password12
+2025-06-07 18:33:33 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-07 18:33:34 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-07 18:33:35 [TestNG-tests-1] INFO  Log - maximized
+2025-06-07 18:33:35 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-07 18:34:22 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-07 18:34:24 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-07 18:34:24 [TestNG-tests-1] INFO  Log - maximized
+2025-06-07 18:34:24 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-07 18:37:33 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-07 18:37:35 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-07 18:37:35 [TestNG-tests-1] INFO  Log - maximized
+2025-06-07 18:37:35 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-07 18:38:18 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-07 18:38:19 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-07 18:38:19 [TestNG-tests-1] INFO  Log - maximized
+2025-06-07 18:38:20 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-07 19:50:11 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-07 19:50:13 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-07 19:50:13 [TestNG-tests-1] INFO  Log - maximized
+2025-06-07 19:50:13 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-07 20:04:20 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-07 20:04:21 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-07 20:04:21 [TestNG-tests-1] INFO  Log - maximized
+2025-06-07 20:04:21 [TestNG-tests-1] INFO  Log - test class entred
+2025-06-15 18:28:26 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 18:28:30 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 18:28:30 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 18:28:30 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 18:29:17 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 18:29:18 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 18:29:18 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 18:29:19 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 18:31:11 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 18:31:12 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 18:31:12 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 18:31:59 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 18:32:01 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 18:32:01 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 18:32:27 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 18:32:29 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 18:32:29 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 18:32:29 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 18:33:44 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 18:33:45 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 18:33:45 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 18:33:45 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 18:34:33 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 18:34:34 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 18:34:34 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 18:34:35 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 18:34:37 [TestNG-tests-1] INFO  Log - opened yatra
+2025-06-15 18:35:13 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 18:35:14 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 18:35:14 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 18:35:15 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 18:35:16 [TestNG-tests-1] INFO  Log - opened yatra
+2025-06-15 18:39:08 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 18:39:10 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 18:39:10 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 18:39:10 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 18:39:13 [TestNG-tests-1] INFO  Log - opened yatra
+2025-06-15 18:39:16 [TestNG-tests-1] INFO  Log - alert handeled
+2025-06-15 18:39:16 [TestNG-tests-1] INFO  Log - waited for departure
+2025-06-15 18:44:54 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 18:44:55 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 18:44:55 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 18:44:56 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 18:44:58 [TestNG-tests-1] INFO  Log - opened yatra
+2025-06-15 18:45:01 [TestNG-tests-1] INFO  Log - alert handeled
+2025-06-15 18:45:01 [TestNG-tests-1] INFO  Log - waited for departure
+2025-06-15 18:47:11 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 18:47:12 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 18:47:12 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 18:47:12 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 18:47:14 [TestNG-tests-1] INFO  Log - opened yatra
+2025-06-15 18:47:17 [TestNG-tests-1] INFO  Log - alert handeled
+2025-06-15 18:47:17 [TestNG-tests-1] INFO  Log - waited for departure
+2025-06-15 18:54:24 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 18:54:25 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 18:54:25 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 18:54:25 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 18:54:27 [TestNG-tests-1] INFO  Log - opened yatra
+2025-06-15 18:54:30 [TestNG-tests-1] INFO  Log - alert handeled
+2025-06-15 18:54:31 [TestNG-tests-1] INFO  Log - waited for departure
+2025-06-15 19:01:00 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 19:01:01 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 19:01:01 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 19:01:01 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 19:01:04 [TestNG-tests-1] INFO  Log - opened yatra
+2025-06-15 19:01:07 [TestNG-tests-1] INFO  Log - alert handeled
+2025-06-15 19:01:07 [TestNG-tests-1] INFO  Log - popup appeared and closed
+2025-06-15 19:01:07 [TestNG-tests-1] INFO  Log - waited for departure
+2025-06-15 19:04:46 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 19:04:48 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 19:04:48 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 19:04:48 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 19:04:50 [TestNG-tests-1] INFO  Log - opened yatra
+2025-06-15 19:04:53 [TestNG-tests-1] INFO  Log - alert handeled
+2025-06-15 19:04:54 [TestNG-tests-1] INFO  Log - waited for departure
+2025-06-15 19:04:58 [TestNG-tests-1] INFO  Log - Clicked using JavaScript.
+2025-06-15 19:04:58 [TestNG-tests-1] INFO  Log - click done
+2025-06-15 19:04:58 [TestNG-tests-1] INFO  Log - got list of webelements
+2025-06-15 19:04:58 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:04:58 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:04:58 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:04:58 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:04:58 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:04:58 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:04:58 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:04:58 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:04:58 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:04:59 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:04:59 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:04:59 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:04:59 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:04:59 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:04:59 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:04:59 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:04:59 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:04:59 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:04:59 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:04:59 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:04:59 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:04:59 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:04:59 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:04:59 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:04:59 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:04:59 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:04:59 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:04:59 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:04:59 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:04:59 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:04:59 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:04:59 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:06:05 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 19:06:07 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 19:06:07 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 19:06:07 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 19:06:09 [TestNG-tests-1] INFO  Log - opened yatra
+2025-06-15 19:06:12 [TestNG-tests-1] INFO  Log - alert handeled
+2025-06-15 19:06:13 [TestNG-tests-1] INFO  Log - waited for departure
+2025-06-15 19:06:17 [TestNG-tests-1] INFO  Log - Clicked using JavaScript.
+2025-06-15 19:06:17 [TestNG-tests-1] INFO  Log - click done
+2025-06-15 19:06:17 [TestNG-tests-1] INFO  Log - got list of webelements
+2025-06-15 19:06:17 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:06:17 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:06:17 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:06:17 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:06:17 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:06:17 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:06:17 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:06:17 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:06:17 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:06:17 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:06:17 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:06:17 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:06:17 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:06:17 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:06:17 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:06:17 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:06:17 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:06:17 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:06:17 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:06:17 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:06:17 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:06:17 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:06:17 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:06:17 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:06:17 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:06:17 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:06:17 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:06:17 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:06:17 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:06:17 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:06:17 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:06:18 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:07:03 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 19:07:05 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 19:07:05 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 19:07:05 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 19:07:07 [TestNG-tests-1] INFO  Log - opened yatra
+2025-06-15 19:07:10 [TestNG-tests-1] INFO  Log - alert handeled
+2025-06-15 19:07:11 [TestNG-tests-1] INFO  Log - popup appeared and closed
+2025-06-15 19:07:11 [TestNG-tests-1] INFO  Log - waited for departure
+2025-06-15 19:07:15 [TestNG-tests-1] INFO  Log - Clicked using JavaScript.
+2025-06-15 19:07:15 [TestNG-tests-1] INFO  Log - click done
+2025-06-15 19:07:15 [TestNG-tests-1] INFO  Log - got list of webelements
+2025-06-15 19:07:15 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:07:15 [TestNG-tests-1] ERROR Log - price₹10,071
+2025-06-15 19:07:15 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:07:15 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:07:15 [TestNG-tests-1] ERROR Log - price₹6,936
+2025-06-15 19:07:15 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:07:15 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:07:15 [TestNG-tests-1] ERROR Log - price₹5,849
+2025-06-15 19:07:15 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:07:15 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:07:15 [TestNG-tests-1] ERROR Log - price₹5,377
+2025-06-15 19:07:15 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:07:15 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:07:15 [TestNG-tests-1] ERROR Log - price₹5,377
+2025-06-15 19:07:15 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:07:15 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:07:15 [TestNG-tests-1] ERROR Log - price₹5,641
+2025-06-15 19:07:15 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:07:15 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:07:15 [TestNG-tests-1] ERROR Log - price₹5,640
+2025-06-15 19:07:15 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:07:15 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:07:15 [TestNG-tests-1] ERROR Log - price₹5,641
+2025-06-15 19:07:15 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:07:15 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:07:16 [TestNG-tests-1] ERROR Log - price₹5,377
+2025-06-15 19:07:16 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:07:16 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:07:16 [TestNG-tests-1] ERROR Log - price₹5,377
+2025-06-15 19:07:16 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:07:16 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:07:16 [TestNG-tests-1] ERROR Log - price₹5,377
+2025-06-15 19:07:16 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:07:16 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:07:16 [TestNG-tests-1] ERROR Log - price₹5,377
+2025-06-15 19:07:16 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:07:16 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:07:16 [TestNG-tests-1] ERROR Log - price₹5,303
+2025-06-15 19:07:16 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:07:16 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:07:16 [TestNG-tests-1] ERROR Log - price₹5,377
+2025-06-15 19:07:16 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:07:16 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:07:16 [TestNG-tests-1] ERROR Log - price₹4,756
+2025-06-15 19:07:16 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:07:16 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:07:16 [TestNG-tests-1] ERROR Log - price₹5,377
+2025-06-15 19:07:16 [TestNG-tests-1] ERROR Log - Number formate exception in price
+2025-06-15 19:11:19 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 19:11:21 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 19:11:21 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 19:11:21 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 19:11:23 [TestNG-tests-1] INFO  Log - opened yatra
+2025-06-15 19:11:26 [TestNG-tests-1] INFO  Log - alert handeled
+2025-06-15 19:11:26 [TestNG-tests-1] INFO  Log - waited for departure
+2025-06-15 19:11:30 [TestNG-tests-1] INFO  Log - Clicked using JavaScript.
+2025-06-15 19:11:30 [TestNG-tests-1] INFO  Log - click done
+2025-06-15 19:11:31 [TestNG-tests-1] INFO  Log - got list of webelements
+2025-06-15 19:11:31 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:11:31 [TestNG-tests-1] ERROR Log - price₹10,071
+2025-06-15 19:11:31 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:11:31 [TestNG-tests-1] ERROR Log - price₹6,936
+2025-06-15 19:11:31 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:11:31 [TestNG-tests-1] ERROR Log - price₹5,849
+2025-06-15 19:11:31 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:11:31 [TestNG-tests-1] ERROR Log - price₹5,377
+2025-06-15 19:11:31 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:11:31 [TestNG-tests-1] ERROR Log - price₹5,377
+2025-06-15 19:11:31 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:11:31 [TestNG-tests-1] ERROR Log - price₹5,641
+2025-06-15 19:11:31 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:11:31 [TestNG-tests-1] ERROR Log - price₹5,640
+2025-06-15 19:11:31 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:11:31 [TestNG-tests-1] ERROR Log - price₹5,641
+2025-06-15 19:11:31 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:11:31 [TestNG-tests-1] ERROR Log - price₹5,377
+2025-06-15 19:11:31 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:11:31 [TestNG-tests-1] ERROR Log - price₹5,377
+2025-06-15 19:11:31 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:11:31 [TestNG-tests-1] ERROR Log - price₹5,377
+2025-06-15 19:11:31 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:11:31 [TestNG-tests-1] ERROR Log - price₹5,377
+2025-06-15 19:11:31 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:11:31 [TestNG-tests-1] ERROR Log - price₹5,303
+2025-06-15 19:11:31 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:11:31 [TestNG-tests-1] ERROR Log - price₹5,377
+2025-06-15 19:11:31 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:11:31 [TestNG-tests-1] ERROR Log - price₹4,756
+2025-06-15 19:11:31 [TestNG-tests-1] INFO  Log - entered for loop
+2025-06-15 19:11:31 [TestNG-tests-1] ERROR Log - price₹5,377
+2025-06-15 19:25:26 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 19:25:27 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 19:25:27 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 19:25:27 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 19:25:29 [TestNG-tests-1] INFO  Log - opened yatra
+2025-06-15 19:25:32 [TestNG-tests-1] INFO  Log - alert handeled
+2025-06-15 19:25:32 [TestNG-tests-1] INFO  Log - popup appeared and closed
+2025-06-15 19:25:32 [TestNG-tests-1] INFO  Log - waited for departure
+2025-06-15 19:25:36 [TestNG-tests-1] INFO  Log - Clicked using JavaScript.
+2025-06-15 19:25:36 [TestNG-tests-1] INFO  Log - click done
+2025-06-15 19:25:37 [TestNG-tests-1] INFO  Log - got list of webelements
+2025-06-15 19:33:04 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 19:33:06 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 19:33:06 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 19:33:06 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 19:33:08 [TestNG-tests-1] INFO  Log - opened yatra
+2025-06-15 19:33:11 [TestNG-tests-1] INFO  Log - alert handeled
+2025-06-15 19:33:11 [TestNG-tests-1] INFO  Log - waited for departure
+2025-06-15 19:33:15 [TestNG-tests-1] INFO  Log - Clicked using JavaScript.
+2025-06-15 19:33:15 [TestNG-tests-1] INFO  Log - click done
+2025-06-15 19:33:15 [TestNG-tests-1] INFO  Log - got list of webelements
+2025-06-15 19:33:16 [TestNG-tests-1] INFO  Log - click performed on the date
+2025-06-15 19:34:19 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 19:34:20 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 19:34:20 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 19:34:20 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 19:34:22 [TestNG-tests-1] INFO  Log - opened yatra
+2025-06-15 19:34:25 [TestNG-tests-1] INFO  Log - alert handeled
+2025-06-15 19:34:25 [TestNG-tests-1] INFO  Log - popup appeared and closed
+2025-06-15 19:34:25 [TestNG-tests-1] INFO  Log - waited for departure
+2025-06-15 19:34:30 [TestNG-tests-1] INFO  Log - Clicked using JavaScript.
+2025-06-15 19:34:30 [TestNG-tests-1] INFO  Log - click done
+2025-06-15 19:34:31 [TestNG-tests-1] INFO  Log - got list of webelements
+2025-06-15 19:34:31 [TestNG-tests-1] INFO  Log - click performed on the date
+2025-06-15 19:40:07 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 19:40:08 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 19:40:08 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 19:40:08 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 19:40:10 [TestNG-tests-1] INFO  Log - opened yatra
+2025-06-15 19:40:13 [TestNG-tests-1] INFO  Log - alert handeled
+2025-06-15 19:40:14 [TestNG-tests-1] INFO  Log - waited for departure
+2025-06-15 19:40:18 [TestNG-tests-1] INFO  Log - Clicked using JavaScript.
+2025-06-15 19:40:18 [TestNG-tests-1] INFO  Log - click done
+2025-06-15 19:40:19 [TestNG-tests-1] INFO  Log - got list of webelements
+2025-06-15 19:40:19 [TestNG-tests-1] INFO  Log - click performed on the date
+2025-06-15 19:40:27 [TestNG-tests-1] INFO  Log - Clicked return using JavaScript.
+2025-06-15 19:40:27 [TestNG-tests-1] INFO  Log - return click done
+2025-06-15 19:40:30 [TestNG-tests-1] INFO  Log - got list of webelements for return
+2025-06-15 19:41:25 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 19:41:26 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 19:41:26 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 19:41:26 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 19:41:28 [TestNG-tests-1] INFO  Log - opened yatra
+2025-06-15 19:41:31 [TestNG-tests-1] INFO  Log - alert handeled
+2025-06-15 19:41:31 [TestNG-tests-1] INFO  Log - popup appeared and closed
+2025-06-15 19:41:31 [TestNG-tests-1] INFO  Log - waited for departure
+2025-06-15 19:41:36 [TestNG-tests-1] INFO  Log - Clicked using JavaScript.
+2025-06-15 19:41:36 [TestNG-tests-1] INFO  Log - click done
+2025-06-15 19:41:37 [TestNG-tests-1] INFO  Log - got list of webelements
+2025-06-15 19:41:37 [TestNG-tests-1] INFO  Log - click performed on the date
+2025-06-15 19:41:44 [TestNG-tests-1] INFO  Log - Clicked return using JavaScript.
+2025-06-15 19:41:44 [TestNG-tests-1] INFO  Log - return click done
+2025-06-15 19:41:48 [TestNG-tests-1] INFO  Log - got list of webelements for return
+2025-06-15 19:41:48 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:42:44 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 19:42:46 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 19:42:46 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 19:42:46 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 19:42:48 [TestNG-tests-1] INFO  Log - opened yatra
+2025-06-15 19:42:51 [TestNG-tests-1] INFO  Log - alert handeled
+2025-06-15 19:42:51 [TestNG-tests-1] INFO  Log - popup appeared and closed
+2025-06-15 19:42:51 [TestNG-tests-1] INFO  Log - waited for departure
+2025-06-15 19:42:55 [TestNG-tests-1] INFO  Log - Clicked using JavaScript.
+2025-06-15 19:42:55 [TestNG-tests-1] INFO  Log - click done
+2025-06-15 19:42:55 [TestNG-tests-1] INFO  Log - got list of webelements
+2025-06-15 19:42:56 [TestNG-tests-1] INFO  Log - click performed on the date
+2025-06-15 19:43:03 [TestNG-tests-1] INFO  Log - Clicked return using JavaScript.
+2025-06-15 19:43:03 [TestNG-tests-1] INFO  Log - return click done
+2025-06-15 19:43:06 [TestNG-tests-1] INFO  Log - got list of webelements for return
+2025-06-15 19:44:21 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 19:44:22 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 19:44:22 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 19:44:22 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 19:44:24 [TestNG-tests-1] INFO  Log - opened yatra
+2025-06-15 19:44:27 [TestNG-tests-1] INFO  Log - alert handeled
+2025-06-15 19:44:27 [TestNG-tests-1] INFO  Log - waited for departure
+2025-06-15 19:44:31 [TestNG-tests-1] INFO  Log - Clicked using JavaScript.
+2025-06-15 19:44:31 [TestNG-tests-1] INFO  Log - click done
+2025-06-15 19:44:32 [TestNG-tests-1] INFO  Log - got list of webelements
+2025-06-15 19:44:32 [TestNG-tests-1] INFO  Log - click performed on the date
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - Clicked return using JavaScript.
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - return click done
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - got list of webelements for return
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹5,045
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹5,197
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹4,944
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹5,241
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹5,197
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹4,756
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹4,926
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹4,756
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹4,856
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹5,143
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹4,856
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹4,944
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹5,045
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹5,197
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹4,767
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹5,197
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹3,899
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹3,899
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹3,899
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹4,944
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹3,899
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹3,899
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹3,899
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹3,899
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹3,899
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹3,899
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹4,944
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹4,767
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹4,856
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹4,501
+2025-06-15 19:44:40 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 19:44:40 [TestNG-tests-1] ERROR Log - price₹3,899
+2025-06-15 19:44:41 [TestNG-tests-1] INFO  Log - click performed on the date
+2025-06-15 20:48:11 [TestNG-tests-1] INFO  Log - Started chrome
+2025-06-15 20:48:12 [TestNG-tests-1] INFO  Log - enterd browser class
+2025-06-15 20:48:12 [TestNG-tests-1] INFO  Log - maximized
+2025-06-15 20:48:12 [TestNG-tests-1] INFO  Log - selectdates initiated
+2025-06-15 20:48:15 [TestNG-tests-1] INFO  Log - opened yatra
+2025-06-15 20:48:15 [TestNG-tests-1] INFO  Log - alert handeled
+2025-06-15 20:48:15 [TestNG-tests-1] INFO  Log - waited for departure
+2025-06-15 20:48:16 [TestNG-tests-1] INFO  Log - Clicked using JavaScript.
+2025-06-15 20:48:16 [TestNG-tests-1] INFO  Log - click done
+2025-06-15 20:48:17 [TestNG-tests-1] INFO  Log - got list of webelements
+2025-06-15 20:48:17 [TestNG-tests-1] INFO  Log - click performed on the date
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - Clicked return using JavaScript.
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - return click done
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - got list of webelements for return
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹5,045
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹5,197
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹4,944
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹5,241
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹5,197
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹4,756
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹4,926
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹4,756
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹4,856
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹5,143
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹4,856
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹4,944
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹5,045
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹5,197
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹4,767
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹3,899
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹3,899
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹3,899
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹3,899
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹4,944
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹3,899
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹3,899
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹3,899
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹3,899
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹3,899
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹3,899
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹4,944
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹4,767
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹4,856
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹4,501
+2025-06-15 20:48:18 [TestNG-tests-1] INFO  Log - entered returned for loop
+2025-06-15 20:48:18 [TestNG-tests-1] ERROR Log - price₹3,899
+2025-06-15 20:48:19 [TestNG-tests-1] INFO  Log - click performed on the date
