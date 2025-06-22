@@ -170,6 +170,7 @@ public class Yatratest extends BaseTest {
 				{
 					Log.error("click not performed");
 				}
+				System.out.println("CHECK revet changes");
 			}
 			
 		}
